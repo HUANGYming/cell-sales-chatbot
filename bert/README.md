@@ -1,6 +1,6 @@
 # Run in Closed Domain QA Mode
 
- In this mode, Context will be automatically searched from document database by Retriever based on TF-IDF. So, user only need to input Question.
+ In this mode, Context will be automatically searched from document database by Retriever based on TF-IDF. So, users only need to input Question.
 
 ## Preview in shell
 
@@ -46,7 +46,7 @@ Asus ROG Phone 5, Nubia Red Magic 6, iPhone 12 Pro Max, Samsung Galaxy S21 Ultra
 
 # Run in Open Domain QA Mode 
 
- In this mode, Context that including the answer of Question need to be given manually. So, user  need to input Question and Context.
+ In this mode, Context that including the answer of Question needs to be given manually. So, users  need to input both Question and Context.
 
 ## By Shell
 
